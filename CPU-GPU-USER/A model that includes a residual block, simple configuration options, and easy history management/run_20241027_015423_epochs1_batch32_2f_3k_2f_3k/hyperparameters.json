@@ -1,0 +1,16 @@
+{
+    "epochs": 1,
+    "batch_size": 32,
+    "block_configs": [
+        {
+            "filters": 2,
+            "kernel_size": 3,
+            "pool_size": 4
+        },
+        {
+            "filters": 2,
+            "kernel_size": 3,
+            "pool_size": null
+        }
+    ]
+}
